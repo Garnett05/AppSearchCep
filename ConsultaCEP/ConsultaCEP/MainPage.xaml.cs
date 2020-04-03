@@ -24,9 +24,39 @@ namespace ConsultaCEP
         private void SearchCep(object sender, EventArgs args)
         {
             string cep = Entry.Text.Trim();
-            Endereco end = ViaCEPService.BuscarEnderecoViaCEP(cep);
+            if (IsValidCep(cep))
+                try
+                {
+                    {
+                        Endereco end = ViaCEPService.BuscarEnderecoViaCEP(cep);
+                        if (end == null)
+                        {
+                            DisplayAlert("Erro", "O endereço não foi encontrado para o CEP informado: " + cep, "Ok");
+                        }
+                        Result.Text = string.Format("Endereço: {0}, de {1}, {2}, {3}", end.Bairro, end.Localidade, end.Uf, end.Logradouro);
+                    }
+                }
+                catch(Exception e)
+                {
+                    DisplayAlert("Erro!", e.Message, "Ok");
+                }
+            
+        }
 
-            Result.Text = string.Format("Endereço: {0}, de {1}, {2}, {3}", end.Bairro, end.Localidade, end.Uf, end.Logradouro);
+        private bool IsValidCep(string cep)
+        {
+            int novoCep;
+            if (!int.TryParse(cep, out novoCep))
+            {
+                DisplayAlert("Erro", "CEP inválido", "O CEP deve conter apenas caracteres numéricos", "OK");
+                return false;
+            }
+            if (cep.Length != 8)
+            {
+                DisplayAlert("Erro", "CEP inválido", "O CEP deve conter 8 caracteres numéricos", "OK");
+                return false;
+            }           
+            return true;
         }
         
     }

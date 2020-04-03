@@ -63,6 +63,7 @@ C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\9
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\res\drawable\correios.png
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\uploadflags.txt
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\resolvedassemblies.hash
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\android\assets\ConsultaCEP.Android.dll
@@ -476,4 +477,3 @@ C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\9
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP.Android\obj\Debug\90\res\drawable\correios.png
