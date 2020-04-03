@@ -1,0 +1,13 @@
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.deps.json
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.dll
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ref\ConsultaCEP.dll
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.pdb
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.AssemblyInfo.cs
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.dll
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ref\ConsultaCEP.dll
+C:\VisualStudio Projects\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.pdb
